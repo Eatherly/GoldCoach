@@ -1,0 +1,379 @@
+
+
+
+.container{
+  width :1000px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.logo{
+  text-align: center;
+  margin-left: -25px;
+}
+
+.present{
+  margin-top: -50px;
+  font-size: 27px;
+  text-align: center;
+  line-height: 100px;
+  font-family: 'PT Sans', sans-serif;
+  color: #18374b;
+}
+.podblog{
+  margin-top: -30px;
+}
+.freeVebinar{
+  font-size: 34px;
+  color:#ff621f;
+  font-family: Circe , sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+}
+.tenSteps{
+  font-size: 30px;
+  text-align: center;
+  font-family: Circe , sans-serif;
+  font-weight: bold;
+}
+.toBook {
+  width: 1000px;
+  height: 100px;
+  background-image: url("../img/Rectangle 9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 48px;
+  text-align: center;
+  line-height: 100px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+}
+
+#topToBook{
+  width: 440px;
+  height: 80px;
+  font-size: 27px;
+  text-align: center;
+  line-height: 80px;
+  margin-left: 280px;
+}
+.toBook button{
+  width: 100%;
+  height: 95%;
+  background-color: #ff621f;
+}
+.block{
+  margin-top: 40px;
+  width: 1000px;
+  height: 1270px;
+
+}
+.block1{
+  width: 50%;
+  height: 100%;
+  background-image: url("../img/Rectangle 2.png");
+  display: inline-block;
+  float: left;
+}
+.datebar{
+  width: 125px;
+  height: 120px;
+  background-color: white;
+  margin-top: 40px;
+  margin-left: 35px;
+  float:left;
+  font-size: 73.45px;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  color:#c2c2c2;
+  display: inline-block;
+
+}
+.blackbabMonth{
+  width: 100%;
+  height: 25px;
+  background-color: #2b2e35;
+  color: white;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 25px;
+
+}
+.eventDate{
+  color: white;
+  float: left;
+  margin-left: 35px;
+  font-family: Circe, sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 0px;
+
+}
+.hr{
+  margin-top: -30px;
+  width: 200%;
+  border-top:2px dashed white;
+}
+.hr2{
+  width: 100%;
+  border-top:2px dashed  #8e9093;
+
+}
+.time{
+  margin-top:10px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+}
+.person{
+  padding-top: 160px;
+  margin-top: 60px;
+  width: 100%;
+  text-align: center;
+}
+#speaker{
+  font-family: Georgia, sans-serif;
+  font-style: italic;
+  font-size: 22px;
+  color: white;
+}
+#speakerName{
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  color: white;
+}
+.pointList{
+
+  margin-left: 70px;
+  text-align: left;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+
+
+}
+.point{
+  margin-left: -30px;
+  margin-bottom: 3px;
+
+
+
+}
+.pointList em{
+  text-align: left;
+  margin-left: 10px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+.block2{
+  padding-top: 35px;
+  width: 50%;
+  height: 1235px;
+  background-image: url("../img/Rectangle 2 copy.png");
+  display: inline-block;
+}
+.text {
+  margin: 0 auto;
+  background-image: url("../img/text_2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1260px;
+  width: 100%;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  background-position-x:  -900px;
+}
+#andText{
+  width: 1000px;
+  margin: 0 auto;
+}
+#andText p{
+  font-weight: normal;
+  font-size: 22px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+
+
+
+.collage{
+  width: 100%;
+  height: 1060px;
+  background-image: url("../img/collageBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 155px;
+  background-position-x:  -300px;
+  margin-top: -150px;
+  z-index: 1;
+}
+.collageImage {
+  text-align: center;
+  width: 1000px;
+  height: 600px;
+  background: url("../img/collage.png") no-repeat top center;
+
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0 auto;
+
+
+}
+footer{
+
+
+  font-size: 30px;
+  text-align: center;
+  line-height: 100px;
+  font-family: 'PT Sans', sans-serif;
+  z-index: 0;
+  background-color: white;
+  margin-top: -333px;
+  font-weight: normal;
+  text-align: left;
+  margin-top: -450px;
+
+}
+footer p{
+  margin-left: 180px;
+  margin-top: -60px;
+
+}
+footer div{
+  margin: 0 auto;
+  margin-top: -30px;
+}
+
+
+
+
+
+
+.formaruchastiya {
+  font-size: 24px;
+  font-style: italic;
+  font-family: Georgia , sans-serif;
+  text-align: center;
+
+}
+.forWho{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  }
+
+.reverse{
+  width: 400px;
+  height: 80px;
+}
+.timer{
+  background-color: #2b2e35;
+  width: 68px;
+  height: 68px;
+  border-radius: 10px;
+  color: white;
+  display: inline-block;
+  margin-left: 4px;
+  font-family: Circe, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 66px;
+}
+.timerName{
+  margin-left: -15px;
+}
+
+.timerName em{
+  margin-left: 30px;
+  font-family: 'Circe' , sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  font-style: normal;
+}
+.aboutVebinar{
+  margin-left: 40px;
+  margin-top: 30px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.aboutVebinarList{
+  margin-top: 40px;
+  margin-left: 75px;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+}
+.redangle{
+  height: 20px;
+  margin-left: -29px;
+
+}
+
+.dostarta{
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 21px;
+  text-align: center;
+}
+.reverse{
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+#forWhoBar{
+  height: 55px;
+  width: 360px;
+  background-color:#ff621f;
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+  line-height: 50px;
+  margin-left: 320px;
+}
+.social{
+  width: 160px;
+  height: 40px;
+  margin: 0 auto;
+}
+.vk ,.f , .tw {
+  width: 40px;
+  height: 40px;
+  background-image: url("../img/social.jpg");
+display: inline-block;
+
+}
+.f{
+  background-position-x: 86px;
+}
+.tw{
+  background-position: 41px;
+}
+
+
+
